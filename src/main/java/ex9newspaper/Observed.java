@@ -1,4 +1,4 @@
-package ex9newspapper;
+package ex9newspaper;
 
 public interface Observed {
     void addObserver(Observer observer);

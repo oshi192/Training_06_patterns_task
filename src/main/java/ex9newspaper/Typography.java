@@ -1,4 +1,4 @@
-package ex9newspapper;
+package ex9newspaper;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package ex9newspapper;
+package ex9newspaper;
 
 public class Subscriber implements Observer {
     String name;

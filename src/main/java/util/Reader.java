@@ -16,7 +16,7 @@ public class Reader {
         return sc;
     }
 
-    static String getString() {
+    public static String getString() {
         return getScanner().nextLine();
     }
 
