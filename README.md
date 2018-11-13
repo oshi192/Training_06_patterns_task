@@ -1,9 +1,9 @@
 ## Patterns tasks:
  1. [Human](https://github.com/oshi192/Training_06_patterns_task/tree/master/src/main/java/ex1humansimple)
- 2. [Human*]()
+ 2. []()
  3. [Tour](https://github.com/oshi192/Training_06_patterns_task/tree/master/src/main/java/ex3tour)
  4. []()
- 5. []()
+ 5. [Salad](https://github.com/oshi192/Training_06_patterns_task/tree/master/src/main/java/ex5salad)
  6. [Secretary](https://github.com/oshi192/Training_06_patterns_task/tree/master/src/main/java/ex6secretary)
  7. [Watch](https://github.com/oshi192/Training_06_patterns_task/tree/master/src/main/java/ex7watch)
  8. [Pizza](https://github.com/oshi192/Training_06_patterns_task/tree/master/src/main/java/ex8pizza)
@@ -35,9 +35,10 @@ reservation of the house, insurance).
 ```
  
 ``` 
-5. 
+5. Salad
 ```
- 
+Create a salad of ingredients to choose from the customer 
+(check before cooking possibility of creation) 
 ```
 6. Secretary
 ```
