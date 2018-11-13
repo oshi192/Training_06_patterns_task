@@ -34,4 +34,18 @@ public class Reader {
             System.out.println("invalid input , try again. Only numbers: " + min + "-" + max);
         }
     }
+    public static int getAnswer(String s, int min, int max) {
+        String input;
+        System.out.println(s);
+        while (true) {
+            input = getString();
+            if(input.equals(""))return 0;
+            if (input.matches("\\d+")) {
+                if (Integer.parseInt(input) >= min && Integer.parseInt(input) <= max) {
+                    return Integer.parseInt(input);
+                }
+            }
+            System.out.println("invalid input , try again, numbers " + min + "-" + max+" or 'enter'");
+        }
+    }
 }
