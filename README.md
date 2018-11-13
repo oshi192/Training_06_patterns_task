@@ -1,4 +1,4 @@
-## patterns task
+## Patterns tasks:
  1. [Human](https://github.com/oshi192/Training_06_patterns_task/tree/master/src/main/java/ex1humansimple)
  2. [Human*]()
  3. [Tour](https://github.com/oshi192/Training_06_patterns_task/tree/master/src/main/java/ex3tour)
